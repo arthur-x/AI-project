@@ -1,0 +1,9 @@
+clock-indicated=17:53:45,aileron=-0.353500,elevator=0.903311,rudder=0.145057,flaps=0.000000,throttle0=0.223133,throttle1=0.000000,vsi-fpm=0.000000,alt-ft=-374.765564,ai-pitch=1.485160,ai-roll=0.399153,ai-offset=0.000000,hi-heading=71.195641,roll-deg=0.399529,pitch-deg=1.485501,heading-deg=80.641503,airspeed-kt=1.141934,speed-north-fps=0.023043,speed-east-fps=0.178896,speed-down-fps=0.005769,uBody-fps=0.180052,vBody-fps=0.006427,wBody-fps=0.010399,north-accel-fps_sec=0.002404,east-accel-fps_sec=0.005636,down-accel-fps_sec=0.003989,x-accel-fps_sec=0.839359,y-accel-fps_sec=-0.225550,z-accel-fps_sec=-32.136482,latitude=21.326050,longitude=-157.943756,altitude=20.169237
+
+
+
+3
+
+
+
+
