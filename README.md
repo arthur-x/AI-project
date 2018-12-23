@@ -1,6 +1,9 @@
 # AI-project
 The main files are in: AI-project/code/flightgear_control/flightgear_control/
 ## Updated:
+
+**Note:** If you want files in the previous version, simply click *releases* and download version0.<br>
+
 **1.** *main.c* and other files are modified. Right now, the plane would take off following the simple control in *main.c* and only listen to *communicate.py* when altitude is above 4800m.<br>
 
 **2.** A network is trained by *immitate.py* and used in *communicate.py*. The network is trained on data in *data.csv*. Right now, this network's performance is highly unstable, and you would see some interesting behaviors once it's in the sky above 4800m as described...<br>
